@@ -1,16 +1,26 @@
-## Hi there 👋
+## Oie, Isa aqui! 🤟
 
-<!--
-**Zabella0751/Zabella0751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="lofi2.0.avif" />
 
-Here are some ideas to get you started:
+## Quem ou o que sou eu?
+- Estudante universitária de Ciência da Computação
+- Entusiasta da área de dados
+- Low Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Idiomas
+- Português (nativa/fluente)
+- Inglês (avançado)
+- Espanhol (básico)
+
+## Linguagens de Programação
+<table>
+  <a href="https://github.com/Zabella0751">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabella0751&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</table>
+
+## Outras Ferramentas 
+<p align="center">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
