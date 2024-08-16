@@ -1,6 +1,6 @@
 ## Oie, Isa aqui! 🤟
 
-<img src="lofi2.0.avif" />
+<img src="lofigirl.png" />
 
 ## Quem ou o que sou eu?
 - Estudante universitária de Ciência da Computação
