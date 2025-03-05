@@ -5,7 +5,7 @@
 ## Quem ou o que sou eu?
 - Estudante universitária de Ciência da Computação
 - Entusiasta da área de dados
-- Uso o GitHub para armazenar projetos, incluindo alguns desenvolvidos em eventos online e outros para a faculdade. Embora programação não seja meu foco principal, acredito ser importante manter o conhecimento atualizado e aprimorar as habilidades que já possuo.
+- Não sou muito ativa por aqui, mas uso o GitHub para armazenar projetos, incluindo alguns desenvolvidos em eventos online e outros para a faculdade. Embora programação não seja meu foco principal, acredito ser importante manter o conhecimento atualizado e aprimorar as habilidades que já possuo.
 
 ## Idiomas
 - Português (nativa/fluente)
